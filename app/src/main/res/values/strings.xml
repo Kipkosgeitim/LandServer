@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Land Server</string>
+    <string name="slogan">Get your home</string>
+    <string name="signIn">Sign In</string>
+    <string name="name">Kevin</string>
+    <string name="password">Password</string>
+    <string name="pass">12345</string>
+    <string name="num">0739158134</string>
+    <string name="phoneNum">Phone Number</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="title_activity_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="name2">Name</string>
+    <string name="select">Select</string>
+    <string name="upload">Upload</string>
+    <string name="landId">Land Id</string>
+    <string name="comment">Comment</string>
+    <string name="detail">Detail</string>
+    <string name="price">$100000</string>
+    <string name="landAddress">Land Address</string>
+    <string name="landOwnerPhone">Land Owner Phone</string>
+
+
+    <string name="landId1">#111111</string>
+    <string name="send_message">Send Message</string>
+    <string name="message">Message</string>
+    <string name="title">Title</string>
+    <string name="land_order_date">Land Order Date</string>
+    <string name="landStatus">Land Status</string>
+    <string name="edit">Edit</string>
+    <string name="remove">Remove</string>
+    <string name="track">Track</string>
+    <string name="land_location_name">Land Location Name</string>
+    <string name="name_of_banner">name of banner</string>
+    <string name="land_description">Land Description</string>
+    <string name="land_price">Land Price</string>
+    <string name="size_of_land">Size Of Land</string>
+    <string name="land_title">Land Title</string>
+    <string name="tracker_phone">Tracker Phone</string>
+    <string name="tracker_name">Tracker Name</string>
+    <string name="nm">Name</string>
+    <string name="phone">Phone</string>
+    <string name="pwd">Password</string>
+
+
+</resources>
