@@ -52,6 +52,7 @@
     <string name="nm">Name</string>
     <string name="phone">Phone</string>
     <string name="pwd">Password</string>
+    <string name="title_activity_tracking_land">Map</string>
 
 
 </resources>

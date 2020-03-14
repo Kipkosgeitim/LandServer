@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
     defaultConfig {
-        applicationId "com.example.landserver"
+        applicationId "com.example.landservers"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -39,7 +39,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'com.google.firebase:firebase-auth:19.2.0'
     implementation 'com.google.firebase:firebase-storage:19.1.1'
-    implementation 'com.google.firebase:firebase-core:17.2.2'
+    implementation 'com.google.firebase:firebase-core:17.2.3'
 
     implementation 'com.google.firebase:firebase-database:19.2.1'
     implementation 'com.rengwuxian.materialedittext:library:2.1.4'
